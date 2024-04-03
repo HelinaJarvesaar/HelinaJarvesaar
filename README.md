@@ -1,4 +1,4 @@
-- 👩🏼 Hi, I’m @HelinaJarvesaar
+- 👩🏼 Hi, I’m Helina
 - 💻 Currently learning Java 🦊 and Python 🐍
 
 
