@@ -7,11 +7,15 @@ https://github.com/HelinaJarvesaar/Figma.git
 
 https://github.com/HelinaJarvesaar/vocoProjects.git
 
+
 **My Flight Booking API (frontend, backend project)**
 
 https://github.com/HelinaJarvesaar/myFlightBookingApp.git
 
 
+**My kitchen projects:**
+
+https://github.com/HelinaJarvesaar/kitchenProjects.git
 
 
 <!---
