@@ -2,7 +2,7 @@ Hi!
 
 I'm career changer from kitchen furniture desing to IT.
 
-Here are some of my works: 
+Take a look at some of my works: 
 
 ___
 
