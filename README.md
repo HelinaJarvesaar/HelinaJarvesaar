@@ -1,3 +1,9 @@
+Hi! 
+
+I'm career changer from kitchen furniture desing to IT.
+
+Here are some of my works: 
+
 **My Figma works:**
 
 https://github.com/HelinaJarvesaar/Figma.git
