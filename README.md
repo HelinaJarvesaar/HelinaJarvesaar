@@ -11,7 +11,7 @@ ___
 
 **My Web Design & Figma projects:**
 
-https://github.com/HelinaJarvesaar/Figma.git
+https://github.com/HelinaJarvesaar/WebDesign_Figma_projects.git
 
 
 ___
