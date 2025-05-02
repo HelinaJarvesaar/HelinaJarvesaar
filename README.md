@@ -9,7 +9,7 @@ ___
 
 🔴🟣🟢🟠🔵
 
-**My Figma projects:**
+**My frontend & Figma projects:**
 
 https://github.com/HelinaJarvesaar/Figma.git
 
