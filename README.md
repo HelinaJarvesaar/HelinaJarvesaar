@@ -5,17 +5,17 @@ I'm career changer from kitchen furniture desing to IT.
 Here are some of my projects:
 
 ___
-**🛫  My Flight Booking API (frontend, backend project)**
+**🛫  My Flight Booking API (frontend: HTML, CSS, JS; backend: SpringBoot Java)**
 
 https://github.com/HelinaJarvesaar/myFlightBookingApp.git
 
 ___
-**My Web Design & Figma projects:**
+**My Web Design (HTML, CSS, JS) & Figma projects:**
 
 https://github.com/HelinaJarvesaar/WebDesign_Figma_projects.git
 
 ___
-**My kitchen projects:**
+**My kitchen design projects (Planit Fusion, Compusoft Winner):**
 
 https://github.com/HelinaJarvesaar/kitchenProjects.git
 
