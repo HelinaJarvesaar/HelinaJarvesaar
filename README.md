@@ -15,11 +15,6 @@ ___
 https://github.com/HelinaJarvesaar/WebDesign_Figma_projects.git
 
 ___
-**My Voco Course projects:**
-
-https://github.com/HelinaJarvesaar/vocoProjects.git
-
-___
 **My kitchen projects:**
 
 https://github.com/HelinaJarvesaar/kitchenProjects.git
