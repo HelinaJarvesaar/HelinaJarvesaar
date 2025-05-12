@@ -1,6 +1,6 @@
 Hi! 
 
-I'm career changer from kitchen furniture desing to IT.
+I'm career changer from kitchen furniture desing to tech.
 
 Here are some of my projects:
 
