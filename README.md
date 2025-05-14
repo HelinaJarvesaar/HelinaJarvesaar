@@ -6,9 +6,11 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 
 ## ✨ Featured Projects
 
-- [Recipe App; Portfoli Website - Figma, Front-end development](https://github.com/HelinaJarvesaar/Figma-projects.git)
+- [Recipe App - Figma](https://github.com/HelinaJarvesaar/Figma-projects.git)
   
 - [Flight Booking App - Full-Stack UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
+  
+- [Portfolio Page - Figma + Front-end Development](https://github.com/HelinaJarvesaar/myPortfolio.git)
   
 
 
