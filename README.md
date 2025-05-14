@@ -5,7 +5,9 @@ I'm career changer from kitchen furniture desing to tech.
 Here are some of my projects:
 
 ___
-**🛫  My Flight Booking API (frontend: HTML, CSS, JS; backend: SpringBoot Java)**
+**🛫  Flight Booking App – Full-Stack UX Flow Prototype (Personal Project) 🛫**
+
+**(frontend: HTML, CSS, JS; backend: SpringBoot Java)**
 
 https://github.com/HelinaJarvesaar/myFlightBookingApp.git
 
