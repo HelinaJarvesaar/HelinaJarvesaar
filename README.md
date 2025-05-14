@@ -12,12 +12,12 @@ ___
 https://github.com/HelinaJarvesaar/myFlightBookingApp.git
 
 ___
-**My Web Design (HTML, CSS, JS) & Figma projects:**
+**My Webdesign (HTML, CSS, JavaScript) & Figma (UX/UI) projects:**
 
 https://github.com/HelinaJarvesaar/WebDesign_Figma_projects.git
 
 ___
-**My kitchen design projects (Planit Fusion, Compusoft Winner):**
+**Kitchen Design Projects – Client-Focused Design Solutions:**
 
 https://github.com/HelinaJarvesaar/kitchenProjects.git
 
