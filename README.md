@@ -6,7 +6,7 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 
 ## ✨ Featured Projects
 
-- [Recipe App - Figma](https://github.com/HelinaJarvesaar/Figma-projects.git)
+- [Recipe App - Figma](https://github.com/HelinaJarvesaar/Recipe_App.git)
   
 - [Flight Booking App - Full-Stack UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
   
