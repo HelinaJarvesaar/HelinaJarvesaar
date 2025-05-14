@@ -1,25 +1,31 @@
-Hi! 
+# Helina Jarvesaar's Projects Portfolio
 
-I'm career changer from kitchen furniture desing to tech.
+Welcome to my GitHub portfolio! 
 
-Here are some of my projects:
+Here you can explore the projects I've worked on, showcasing my design and development skills.
 
-___
-**🛫  Flight Booking App – Full-Stack UX Flow Prototype (Personal Project) 🛫**
+- [Recipe App - Figma](link-to-repo)
+  
+- [Flight Booking App](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
+  
+- [Portfolio Website - Figma](https://github.com/HelinaJarvesaar/myPortfolio.git)
 
-**(frontend: HTML, CSS, JS; backend: SpringBoot Java)**
 
-https://github.com/HelinaJarvesaar/myFlightBookingApp.git
 
-___
-**My Webdesign (HTML, CSS, JavaScript) & Figma (UX/UI) projects:**
+## Kitchen Design Projects (Previous Career)
 
-https://github.com/HelinaJarvesaar/WebDesign_Figma_projects.git
+These projects reflect my previous career as a kitchen designer, where I focused on solving design problems and creating functional, user-friendly designs.
 
-___
-**Kitchen Design Projects – Client-Focused Design Solutions:**
+- [Kitchen projects](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
 
-https://github.com/HelinaJarvesaar/kitchenProjects.git
+
+## More Projects
+
+- [MyPortfolio Website](link-to-repo)
+  
+- [Jewelry Page](link-to-repo)
+  
+- [Lõputöö Project](link-to-repo)
 
 
 <!---
