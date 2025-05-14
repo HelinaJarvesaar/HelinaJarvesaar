@@ -4,28 +4,24 @@ Welcome to my GitHub portfolio!
 
 Here you can explore the projects I've worked on, showcasing my design and development skills.
 
-- [Recipe App - Figma](link-to-repo)
+- [Recipe App; Portfoli Website - Figma, Front-end development](https://github.com/HelinaJarvesaar/Figma-projects.git)
   
-- [Flight Booking App](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
+- [Flight Booking App - Full-Stack UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
   
-- [Portfolio Website - Figma](https://github.com/HelinaJarvesaar/myPortfolio.git)
-
 
 
 ## Kitchen Design Projects (Previous Career)
 
 These projects reflect my previous career as a kitchen designer, where I focused on solving design problems and creating functional, user-friendly designs.
 
-- [Kitchen projects](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
+- [Kitchen projects - Client-Focused Design Solutions](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
 
 
 ## More Projects
-
-- [MyPortfolio Website](link-to-repo)
   
-- [Jewelry Page](link-to-repo)
+- [Jewelry Page - Front-end development](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
   
-- [Lõputöö Project](link-to-repo)
+- ["Meelerahu" Page - Figma, Front-end development](https://github.com/HelinaJarvesaar/mySecondPage.git)
 
 
 <!---
