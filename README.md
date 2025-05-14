@@ -23,7 +23,7 @@ These projects reflect my previous career as a kitchen designer, where I focused
 
 ## ✨More Projects
   
-- [Jewelry Page - Front-end development](https://github.com/HelinaJarvesaar/littleLuxuryJewerlyPage.git)
+- [Jewelry Page - Front-end development](https://github.com/HelinaJarvesaar/Jewerly_Page.git)
   
 - ["Meelerahu" Page - Figma, Front-end development](https://github.com/HelinaJarvesaar/mySecondPage.git)
 
