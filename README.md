@@ -10,7 +10,7 @@ Here you can explore the projects I've worked on, showcasing my design and devel
   
 - [Flight Booking App - Full-Stack UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
   
-- [Sample Portfolio Page - Figma + Front-end Development](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
+- [Sample Portfolio Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
   
 
 
@@ -23,9 +23,9 @@ These projects reflect my previous career as a kitchen designer, where I focused
 
 ## ✨More Projects
   
-- [Jewelry Page - Front-end development](https://github.com/HelinaJarvesaar/Jewerly_Page.git)
+- [Jewelry Page - Front-end](https://github.com/HelinaJarvesaar/Jewerly_Page.git)
   
-- ["Meelerahu" Page - Figma, Front-end development](https://github.com/HelinaJarvesaar/Meelerahu_Page.git)
+- ["Meelerahu" Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Meelerahu_Page.git)
 
 
 <!---
