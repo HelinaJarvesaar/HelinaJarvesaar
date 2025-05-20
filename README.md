@@ -10,6 +10,8 @@ Here you can explore the projects I've worked on, showcasing my design and devel
   
 - [Flight Booking App - Full-Stack UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
   
+- [Portfolio Page - React](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
+  
 - [Sample Portfolio Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
   
 
