@@ -8,9 +8,9 @@ Here you can explore the projects I've worked on, showcasing my design and devel
   
 - [Flight Booking App - Full-Stack (Spring Boot, Java, JS, HTML5, CSS3)  UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
   
-- [Portfolio Page - React](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
+- [Portfolio Page - React.js](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
 
-- [Recipe App - Figma.js](https://github.com/HelinaJarvesaar/Recipe_App.git)
+- [Recipe App - Figma](https://github.com/HelinaJarvesaar/Recipe_App.git)
   
 - [Sample Portfolio Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
   
