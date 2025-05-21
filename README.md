@@ -12,7 +12,7 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 
 - [Recipe App - Figma](https://github.com/HelinaJarvesaar/Recipe_App.git)
   
-- [Sample Portfolio Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
+- [Sample Portfolio Page - Figma + Front-end (HTML5, CSS3, JS)](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
   
 
 
