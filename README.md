@@ -7,10 +7,10 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 ## ✨ Featured Projects
   
 - [Flight Booking App - Full-Stack (Spring Boot, Java, JS, HTML5, CSS3)  UX Flow Prototype](https://github.com/HelinaJarvesaar/myFlightBookingApp.git)
-  
-- [Portfolio Page - React.js](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
 
 - [Little Lemon Restaurant  - React App / Figma project](https://github.com/HelinaJarvesaar/Little_Lemon_Restaurant_App.git)
+  
+- [Portfolio Page - React.js](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
   
 - [Sample Portfolio Page - Figma + Front-end (HTML5, CSS3, JS)](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
 
