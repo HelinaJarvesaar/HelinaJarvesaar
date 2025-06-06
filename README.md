@@ -15,6 +15,14 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 - [Sample Portfolio Page - Figma + Front-end (HTML5, CSS3, JS)](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
 
 
+## ✨Kitchen Design Projects (Previous Career)
+
+These projects reflect my previous career as a kitchen designer, where I focused on solving design problems and creating functional, user-friendly designs.
+
+- [Kitchen projects - Client-Focused Design Solutions](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
+
+  
+
 ## ✨More Projects
 
 - [Recipe App - Figma](https://github.com/HelinaJarvesaar/Recipe_App.git)
@@ -23,12 +31,6 @@ Here you can explore the projects I've worked on, showcasing my design and devel
   
 - ["Meelerahu" Page - Figma + Front-end](https://github.com/HelinaJarvesaar/Meelerahu_Page.git)
 
-
-## ✨Kitchen Design Projects (Previous Career)
-
-These projects reflect my previous career as a kitchen designer, where I focused on solving design problems and creating functional, user-friendly designs.
-
-- [Kitchen projects - Client-Focused Design Solutions](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
 <!---
 HelinaJarvesaar/HelinaJarvesaar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
