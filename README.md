@@ -11,6 +11,8 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 - [Portfolio Page - React.js](https://github.com/HelinaJarvesaar/Portfolio-Page-React.git)
 
 - [Little Lemon Restaurant  - Figma](https://github.com/HelinaJarvesaar/Little-Lemon-Restaurant.git)
+
+- [Little Lemon Restaurant  - App](https://github.com/HelinaJarvesaar/Little_Lemon_Page.git)
   
 - [Sample Portfolio Page - Figma + Front-end (HTML5, CSS3, JS)](https://github.com/HelinaJarvesaar/Sample_Portfolio.git)
 
