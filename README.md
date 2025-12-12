@@ -19,7 +19,9 @@ Here you can explore the projects I've worked on, showcasing my design and devel
 
 ## ✨Kitchen Design Projects (Previous Career)
 
-These projects reflect my previous career as a kitchen designer, where I focused on solving design problems and creating functional, user-friendly designs.
+These projects reflect my previous career as a kitchen designer. 
+
+Demonstrating problem-solving, requirement analysis, attention to detail and delivering functional, user-focused solutions — skills I now bring to IT and product development.
 
 - [Kitchen projects - Client-Focused Design Solutions](https://github.com/HelinaJarvesaar/Kitchen_projects.git)
 
